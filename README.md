@@ -14,6 +14,7 @@ You could enable/disable probes using simple api calls:
 Live probe:
 - GET /live/start
 - GET /live/stop
+
 Ready probe:
 - GET /ready/start
 - GET /ready/stop
